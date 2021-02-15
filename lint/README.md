@@ -1,6 +1,7 @@
-# eslint-google
+# lint
 
-eslintとPrettierの設定
-
-eslintはgoogleの設定を使っている
-
+- ESLint
+  - TypeScript
+  - Google
+  - Prettier
+- Prettier
