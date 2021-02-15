@@ -1,27 +1,26 @@
 {
-  "name": "oreno-front-end",
+  "name": "webpack-glob-entry",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "dependencies": {},
   "devDependencies": {
     "@types/webpack": "^4.41.7",
     "glob": "^7.1.6",
-    "webpack": "^4.42.0",
-    "webpack-cli": "^3.3.11"
+    "webpack": "^5.22.0",
+    "webpack-cli": "^4.5.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gorimori/oreno-front-end.git"
+    "url": "git+https://github.com/shu7ii/project-template.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/gorimori/oreno-front-end/issues"
+    "url": "https://github.com/shu7ii/project-template/issues"
   },
-  "homepage": "https://github.com/gorimori/oreno-front-end#readme"
+  "homepage": "https://github.com/shu7ii/project-template#readme"
 }
